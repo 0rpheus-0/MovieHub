@@ -1,0 +1,6 @@
+[submodule "javalabs"]
+	path = javalabs
+	url = https://github.com/0rpheus-0/MovieHun-backend.git
+[submodule "front"]
+	path = front
+	url = https://github.com/0rpheus-0/MovieHub-frontend.git
